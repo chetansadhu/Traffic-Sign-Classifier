@@ -11,7 +11,7 @@
 8. [Results of the Model](#model_results)
 9. [Test Model on the New Images](#new-images)
 10. [Visualization of the Network](#visualization)
-11. [Test Set Analysis and Statistics](#test-set)
+11. [Test Set Analysis and Statistics](#Test-set)
 
 <a name="Overview"> </a>
 Overview
@@ -380,8 +380,7 @@ Visualization of the Network
 
 After Convolution Layer
 
-<img src="stats/conv1_0.png" />
-<img src="stats/conv1_1.png" />
+<img src="stats/conv1_0.png" /> <img src="stats/conv1_1.png" />
 <img src="stats/conv1_2.png" />
 <img src="stats/conv1_3.png" />
 <img src="stats/conv1_4.png" />
@@ -389,8 +388,7 @@ After Convolution Layer
 
 After ReLU Layer
 
-<img src="stats/relu1_0.png" />
-<img src="stats/relu1_1.png" />
+<img src="stats/relu1_0.png" /> <img src="stats/relu1_1.png" />
 <img src="stats/relu1_2.png" />
 <img src="stats/relu1_3.png" />
 <img src="stats/relu1_4.png" />
@@ -398,8 +396,7 @@ After ReLU Layer
 
 After Convolution Layer
 
-<img src="stats/conv2_0.png" />
-<img src="stats/conv2_1.png" />
+<img src="stats/conv2_0.png" /> <img src="stats/conv2_1.png" />
 <img src="stats/conv2_2.png" />
 <img src="stats/conv2_3.png" />
 <img src="stats/conv2_4.png" />
@@ -417,8 +414,7 @@ After Convolution Layer
 
 After ReLU Layer
 
-<img src="stats/relu2_0.png" />
-<img src="stats/relu2_1.png" />
+<img src="stats/relu2_0.png" /> <img src="stats/relu2_1.png" />
 <img src="stats/relu2_2.png" />
 <img src="stats/relu2_3.png" />
 <img src="stats/relu2_4.png" />
@@ -436,8 +432,7 @@ After ReLU Layer
 
 After Max Pool Layer
 
-<img src="stats/pool1_0.png" />
-<img src="stats/pool1_1.png" />
+<img src="stats/pool1_0.png" /> <img src="stats/pool1_1.png" />
 <img src="stats/pool1_2.png" />
 <img src="stats/pool1_3.png" />
 <img src="stats/pool1_4.png" />
