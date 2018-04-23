@@ -208,7 +208,7 @@ The above graphs are with `GradientDescentOptimizer` with similar parameters as 
 <img src="stats/f7_loss.png" width="425" />
 <img src="stats/f4_loss.png" width="425" />
 
-With the help of above graphs and in comparison with validation and training accuracies, I chose the parameters with `learning rate = 0.01`, `batch size = 128` and `number of epochs = 30`
+With the help of above graphs and in comparison with validation and training accuracies, I chose the parameters with `learning rate = 0.1`, `batch size = 128` and `number of epochs = 15`
 
 <a name="train"> </a>
 Training the Model
@@ -216,8 +216,8 @@ Training the Model
 
 Model is trained with the following configuration
 - Architecture: 2
-- Learning rate: 0.01 
-- Number of epochs: 30
+- Learning rate: 0.1 
+- Number of epochs: 15
 - Batch size: 128
 - Optimizer: GradientDescentOptimizer
 
