@@ -7,7 +7,8 @@ In this project, deep neural networks and convolutional neural networks are used
 
 Folder Structure
 ---
-* Traffic_Sign_Classifier.ipynb - Code file (IPython notebook).
+* Traffic Sign Classifier.ipynb - Code file (IPython notebook).
+* Traffic Sign Classifier.html - HTML file of the notebook.
 * Writeup.md - A brief writeup on the method used in the code.
 * stats - Folder containing images of the statistics and analysis.
 * test\_images - Folder containing new images from internet.
